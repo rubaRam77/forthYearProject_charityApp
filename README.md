@@ -1,0 +1,2 @@
+# myGit
+charity project
