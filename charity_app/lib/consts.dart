@@ -1,0 +1,1 @@
+const int inerTextColor=0xff342D2D;
